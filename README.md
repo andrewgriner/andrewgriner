@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrew Griner
+- 👀 I’m interested in cybersecuitry and UI interface
+- 🌱 I’m currently studying electrical engineering at the University of Florida
+- 📫 How to reach me https://www.linkedin.com/in/andrew-griner-036b50251/
